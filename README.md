@@ -1,2 +1,2 @@
 # simple-tools
-The simplest little task automation projects
+The simplest little task automation projects.
