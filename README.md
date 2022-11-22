@@ -1,2 +1,2 @@
-# simple-tools
-The simplest little task automation projects.
+# language-tools
+The simplest language analysis automation projects.
